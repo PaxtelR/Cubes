@@ -10,4 +10,4 @@ Começou a ser desenvolvido na materia de Projeto de Jogos e Entretenimento Digi
 Game Design: Rafael Maciel Risso([GitHub Rafael](https://github.com/PaxtelR)), Eduardo Brugnago ([Bebehance Eduardo](https://www.behance.net/eduvsk0)).    
 Arte: Eduardo Brugnago ([Bebehance Eduardo](https://www.behance.net/eduvsk0)).    
 Programação: Rafael Maciel Risso([GitHub Rafael](https://github.com/PaxtelR)).    
-Level Design: Eduardo Brugnago ([Bebehance Eduardo](https://www.behance.net/eduvsk0)), João Pedro Cordeiro.    
+Level Design: Eduardo Brugnago ([Bebehance Eduardo](https://www.behance.net/eduvsk0)), João Pedro Cordeiro, Rafael Maciel Risso([GitHub Rafael](https://github.com/PaxtelR))..    
